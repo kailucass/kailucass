@@ -26,7 +26,7 @@ I bridge neuroscience and data science: analyzing behavioral and neural data, bu
 
 ## 📫 Get in Touch
 
-Find me on [LinkedIn](https://linkedin.com/in/kaikanzler) or visit my [portfolio](https://resume-dash.onrender.com) to learn more about my work.
+Find me on [LinkedIn](https://linkedin.com/in/kaikanzler) or visit my [portfolio](https://resume-dash-wgka.onrender.com/) to learn more about my work.
 
 ---
 
